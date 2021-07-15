@@ -1,0 +1,43 @@
+.header, .hero, .body, .bar, .footer{
+	background-color: skyblue;
+	margin-bottom: 10px;
+}
+.box{
+	margin: 10px 0;
+	min-height: 80px;
+	font-size: 30px ;
+	color: white;
+	background:#808080 ;
+
+}
+.red{
+	background: green;
+}
+.five{
+	background: blue;
+}
+.black{
+	background: green;
+}
+
+.part1 {
+}
+.text-display{
+	font-size: 20px;
+	font-weight: 500;
+}
+.icon ul li i{
+	width: 29px;
+    margin: 8px 0px;
+    color: black;
+    font-size: 25px;
+}
+.figure{
+	width: 100%;
+	text-align: center;
+	margin: 10px auto;
+}
+.figure img{
+	width: 5%;
+	
+}
